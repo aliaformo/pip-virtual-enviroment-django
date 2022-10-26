@@ -21,12 +21,14 @@
 3. [Introduction to Django](https://www.youtube.com/watch?v=SRiVE6ibgaU&t=1860s)
 4. [Setting up a django project](https://www.youtube.com/watch?v=xE_9JXYYGvg&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=44)
 5. [Creating an app in django](https://www.youtube.com/watch?v=DNeZ0vxV7vw&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=45&t=106s)
+6. [Introduction To Django by Eniola and Mildness](https://www.youtube.com/watch?v=fun0b0C2hAM)
+7. [Python Office Hours with Enny](https://www.youtube.com/watch?v=mQp6Bi6b9Tc)
 
 ### 🔧 Tools
 
 - Django version 4.1.2
 - Python version 3.10.4
-- Visual Studio Code version 1.68
+- Visual Studio Code version 1.72.2
 - Git 2.36.1
 - Github repository
 
@@ -39,9 +41,15 @@
 
 ### 📂 Project samples
 
+1. Server
+
 ![Server](project-pics/1.server.png)
 
+2. Musicapp
+
 ![musicapp](project-pics/2.musicapp.png)
+
+3. Admin
 
 ![admin](project-pics/3.admin.png)
 
